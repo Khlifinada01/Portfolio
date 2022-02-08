@@ -1,0 +1,7 @@
+
+.nav{
+  backdrop-filter: blur();
+  backface-visibility: visible;
+  color: #a94442;
+  background-color: #a94442;
+}
